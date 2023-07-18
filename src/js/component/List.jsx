@@ -34,7 +34,7 @@ const List = () => {
                     );
                 })
                 }
-
+        <li className="list-group-item d-flex justify-content-between" >{todolist.length} Items</li>
             </ul>
 
         </>
